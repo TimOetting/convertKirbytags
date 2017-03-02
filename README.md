@@ -6,6 +6,7 @@ Converts any [kirbytag](https://getkirby.com/docs/developer-guide/kirbytext/tags
 
 ```
 $field->convertKirbytags()
+```
 
 ## Setup
 
